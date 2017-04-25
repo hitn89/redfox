@@ -1,0 +1,27 @@
+body {
+  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+}
+
+input {
+  margin: 5px;
+  padding: 0 10px;
+  width: 400px;
+  height: 34px;
+  border: 1px solid;
+  border-radius: 2px;
+
+}
+
+input[type=submit] {
+  padding: 0 18px;
+  height: 29px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 16px;
+  background-color: #ffb961;
+}
+
+#price {
+  font-size: 16px;
+  font-weight: bold;
+}
